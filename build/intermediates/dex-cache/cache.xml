@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\chathusanka\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\Desktop\2016\Press_Viewer\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_17ac16f7effe30a6dbaca795bf5eb11761f76175\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Desktop\2016\Press_Viewer\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="21.1.2"
+        sha1="29ccfbddf99584bddbaab62c0cf50dcd1c564e43">
+        <dex dex="F:\Desktop\2016\Press_Viewer\app\build\intermediates\transforms\dex\debug\folders\1000\2\YouTubeAndroidPlayerApi_39b41feba9af04609415e534c94123076b18e8cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Desktop\2016\Press_Viewer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="21.1.2"
+        sha1="266d50dc0e942a6843cf3496906f954c5326b16c">
+        <dex dex="F:\Desktop\2016\Press_Viewer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_56e8ca76165ef7fd3f96d8d8efcb738e6711385d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Desktop\2016\Press_Viewer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="21.1.2"
+        sha1="4615b9fbfd2f10e366c331ecfd88c3691a89f2d4">
+        <dex dex="F:\Desktop\2016\Press_Viewer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_5aa2d2a43602284fc2217461fa95f0864bbef429\classes.dex" />
+    </item>
+
+</items>

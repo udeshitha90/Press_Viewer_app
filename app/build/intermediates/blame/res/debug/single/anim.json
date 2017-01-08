@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\Desktop\\2016\\Press_Viewer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_translate.xml",
+        "source": "F:\\Desktop\\2016\\Press_Viewer\\app\\src\\main\\res\\anim\\anim_translate.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\2016\\Press_Viewer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_rotate.xml",
+        "source": "F:\\Desktop\\2016\\Press_Viewer\\app\\src\\main\\res\\anim\\anim_rotate.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\2016\\Press_Viewer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_alpha.xml",
+        "source": "F:\\Desktop\\2016\\Press_Viewer\\app\\src\\main\\res\\anim\\anim_alpha.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\2016\\Press_Viewer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\trans_ani.xml",
+        "source": "F:\\Desktop\\2016\\Press_Viewer\\app\\src\\main\\res\\anim\\trans_ani.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\2016\\Press_Viewer\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_scale.xml",
+        "source": "F:\\Desktop\\2016\\Press_Viewer\\app\\src\\main\\res\\anim\\anim_scale.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Wed Dec 07 22:03:41 IST 2016
+base.0=F\:\\Desktop\\2016\\Press_Viewer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5aa2d2a43602284fc2217461fa95f0864bbef429
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\Desktop\\2016\\Press_Viewer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_56e8ca76165ef7fd3f96d8d8efcb738e6711385d\\classes.dex
+base.1=F\:\\Desktop\\2016\\Press_Viewer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_56e8ca76165ef7fd3f96d8d8efcb738e6711385d
+file.0=F\:\\Desktop\\2016\\Press_Viewer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_5aa2d2a43602284fc2217461fa95f0864bbef429\\classes.dex

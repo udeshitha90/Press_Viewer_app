@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "F:\\Desktop\\2016\\Press_Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main1.xml",
+        "source": "F:\\Desktop\\2016\\Press_Viewer\\app\\src\\main\\res\\layout\\activity_main1.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\2016\\Press_Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\all_tops.xml",
+        "source": "F:\\Desktop\\2016\\Press_Viewer\\app\\src\\main\\res\\layout\\all_tops.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\2016\\Press_Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\all_political.xml",
+        "source": "F:\\Desktop\\2016\\Press_Viewer\\app\\src\\main\\res\\layout\\all_political.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\2016\\Press_Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\all_sports.xml",
+        "source": "F:\\Desktop\\2016\\Press_Viewer\\app\\src\\main\\res\\layout\\all_sports.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\2016\\Press_Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\related.xml",
+        "source": "F:\\Desktop\\2016\\Press_Viewer\\app\\src\\main\\res\\layout\\related.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\2016\\Press_Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\all_gossip.xml",
+        "source": "F:\\Desktop\\2016\\Press_Viewer\\app\\src\\main\\res\\layout\\all_gossip.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\2016\\Press_Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\all_business.xml",
+        "source": "F:\\Desktop\\2016\\Press_Viewer\\app\\src\\main\\res\\layout\\all_business.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\2016\\Press_Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\player.xml",
+        "source": "F:\\Desktop\\2016\\Press_Viewer\\app\\src\\main\\res\\layout\\player.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\2016\\Press_Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\videolist.xml",
+        "source": "F:\\Desktop\\2016\\Press_Viewer\\app\\src\\main\\res\\layout\\videolist.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\2016\\Press_Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\all_songs.xml",
+        "source": "F:\\Desktop\\2016\\Press_Viewer\\app\\src\\main\\res\\layout\\all_songs.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\2016\\Press_Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\aboutus.xml",
+        "source": "F:\\Desktop\\2016\\Press_Viewer\\app\\src\\main\\res\\layout\\aboutus.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\2016\\Press_Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tabhosthome.xml",
+        "source": "F:\\Desktop\\2016\\Press_Viewer\\app\\src\\main\\res\\layout\\tabhosthome.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\2016\\Press_Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\entertainment.xml",
+        "source": "F:\\Desktop\\2016\\Press_Viewer\\app\\src\\main\\res\\layout\\entertainment.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\2016\\Press_Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home.xml",
+        "source": "F:\\Desktop\\2016\\Press_Viewer\\app\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\2016\\Press_Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\Desktop\\2016\\Press_Viewer\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\2016\\Press_Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\all_movies.xml",
+        "source": "F:\\Desktop\\2016\\Press_Viewer\\app\\src\\main\\res\\layout\\all_movies.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\2016\\Press_Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\youtube.xml",
+        "source": "F:\\Desktop\\2016\\Press_Viewer\\app\\src\\main\\res\\layout\\youtube.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\2016\\Press_Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home_screen.xml",
+        "source": "F:\\Desktop\\2016\\Press_Viewer\\app\\src\\main\\res\\layout\\activity_home_screen.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\2016\\Press_Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\topstories.xml",
+        "source": "F:\\Desktop\\2016\\Press_Viewer\\app\\src\\main\\res\\layout\\topstories.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\2016\\Press_Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "F:\\Desktop\\2016\\Press_Viewer\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "F:\\Desktop\\2016\\Press_Viewer\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mainlist.xml",
+        "source": "F:\\Desktop\\2016\\Press_Viewer\\app\\src\\main\\res\\layout\\mainlist.xml"
+    }
+]

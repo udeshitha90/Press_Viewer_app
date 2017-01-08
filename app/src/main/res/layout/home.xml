@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/backmage"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+
+
+
+    <LinearLayout
+        android:paddingTop="60dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="100">
+
+        <Button
+            android:id="@+id/btnscan"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Scan QR Code"
+            android:textStyle="bold"
+            android:onClick="scanQR"
+            android:textSize="36dp"
+            android:background="@android:color/transparent"
+            android:typeface="normal"
+            android:layout_weight="20.35"
+            android:textColor="#606060" />
+
+        <Button
+            android:id="@+id/btntopstries"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Top Stories"
+            android:textSize="36dp"
+            android:textStyle="bold"
+            android:background="@android:color/transparent"
+            android:layout_weight="18.60"
+            android:textColor="#606060" />
+
+        <Button
+            android:id="@+id/btnEnt"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Entertainment"
+            android:textSize="36dp"
+            android:textStyle="bold"
+            android:background="@android:color/transparent"
+            android:layout_weight="17.54"
+            android:textColor="#606060" />
+
+        <Button
+            android:id="@+id/btaboutus"
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="About Us"
+            android:textSize="36dp"
+            android:textStyle="bold"
+            android:background="@android:color/transparent"
+            android:layout_weight="16.49"
+            android:textColor="#606060"
+            android:visibility="visible" />
+
+    </LinearLayout>
+
+
+
+
+</LinearLayout>

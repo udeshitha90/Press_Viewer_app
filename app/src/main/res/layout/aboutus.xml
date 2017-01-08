@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_launcher"
+        android:layout_marginLeft="115dp"/>
+
+
+
+    <TextView
+        android:paddingTop="30dp"
+        android:layout_marginTop="25dp"
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="To motivate newspaper readers we are going to introduce this application to the newspaper industry .
+
+         "
+        android:gravity="center"
+
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_weight="0.49"
+        android:textColor="#ffff0b13"
+        android:textSize="20dp"
+        android:textStyle="bold|italic"
+        android:layout_gravity="bottom|center" />
+
+    <TextView
+        android:paddingTop="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:text=" Developed by SLIIT 3rd year IT student.\n
+
+       K.L.D.Udeshitha.\n
+        K.W.C.Jayadewa.\n
+        N.D.U.Gamage.\n
+        S.M.N.K.B.Senanayaka. "
+
+        android:textColor="@android:color/holo_blue_bright"
+        android:textSize="@dimen/activity_vertical_margin"
+        android:layout_gravity="center"
+        android:layout_below="@+id/textView1"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+</RelativeLayout>

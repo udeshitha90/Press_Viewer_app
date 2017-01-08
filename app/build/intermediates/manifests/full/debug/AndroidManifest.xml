@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.pressviewer"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="18" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.pressviewer.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.pressviewer.Home"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.pressviewer.HOME" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.pressviewer.AboutUs"
+            android:label="About Us"
+            android:theme="@android:style/Theme.Dialog" >
+            <intent-filter>
+                <action android:name="com.pressviewer.ABOUTUS" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.pressviewer.VideoHome" >
+            <intent-filter>
+                <action android:name="com.pressviewer.VIDEOHOME" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.pressviewer.Entertainment" >
+            <intent-filter>
+                <action android:name="com.pressviewer.ENTER" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.pressviewer.HomeScreen"
+            android:label="@string/title_activity_home_screen" >
+        </activity>
+        <activity
+            android:name="com.pressviewer.PlayingVideo"
+            android:label="@string/title_activity_home_screen" >
+        </activity>
+        <activity
+            android:name="com.pressviewer.AndroidBarcodeQrExample"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.pressviewer.AllTopSActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.pressviewer.AllBusinessActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.pressviewer.AllGossipActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.pressviewer.AllMoviesActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.pressviewer.AllPoliticalActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.pressviewer.AllSongsActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.pressviewer.AllSportsActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.pressviewer.Youtube"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name="com.pressviewer.Related"
+            android:label="@string/app_name" >
+        </activity>
+    </application>
+
+</manifest>
